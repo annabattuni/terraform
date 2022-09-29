@@ -1,0 +1,12 @@
+rg_01_name = "rg-kfctta-dev-wus3-001"
+rg_01_location = "west us3"
+vnet_01_name = "vnet-kfctta-dev-wus3-001"
+vnet_01_address_space = [ "192.168.100.0/24" ]
+subnet_01_name = "sn-frontend"
+subnet_01_address_perfix = ["192.168.100.0/26"]
+tag_env_name = "development"
+nic_01_name = "nic-kfctta-dev-wus3-001"
+nsg_01_name = "nsg-kfctta-dev-wus3-001"
+vm_01_name = "vm-dev-wus3-001"
+private_ip_address = "192.168.100.0"
+pip_01_name = "pip-kfctta-dev-001"
